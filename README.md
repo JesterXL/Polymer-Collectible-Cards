@@ -26,6 +26,10 @@ Used [Illustrator](http://www.adobe.com/products/illustrator.html), feel free to
 
 ![Paper Badge](Polymer-Paper-Checkbox.png)
 
+# <paper-dialog>
+
+![Paper Badge](Polymer-Paper-Dialog.png)
+
 # Polymer Paper Box
 
 ![Paper Badge](Polymer-Paper-Box.png)
