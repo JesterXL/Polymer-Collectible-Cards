@@ -10,23 +10,23 @@ Used [Illustrator](http://www.adobe.com/products/illustrator.html), feel free to
 
 ![Paper Index](Polymer-Paper-Index.png)
 
-# <paper-badge>
+# &lt;paper-badge&gt;
 
 ![Paper Badge](Polymer-Paper-Badge.png)
 
-# <paper-button>
+# &lt;paper-button&gt;
 
 ![Paper Badge](Polymer-Paper-Button.png)
 
-# <paper-card>
+# &lt;paper-card&gt;
 
 ![Paper Badge](Polymer-Paper-Card.png)
 
-# <paper-checkbox>
+# &lt;paper-checkbox&gt;
 
 ![Paper Badge](Polymer-Paper-Checkbox.png)
 
-# <paper-dialog>
+# &lt;paper-dialog&gt;
 
 ![Paper Badge](Polymer-Paper-Dialog.png)
 
